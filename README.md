@@ -28,10 +28,10 @@ Git & GitHub · Jupyter Notebooks · VS Code · Agile team experience
 
 ## How I Add Value
 
-✔ Transforming raw data into actionable business insights  
-✔ Building scalable data models for analytics  
-✔ Creating interactive dashboards for decision-makers  
-✔ Communicate findings with clarity — both visually and verbally
+ Transforming raw data into actionable business insights  
+ Building scalable data models for analytics  
+ Creating interactive dashboards for decision-makers  
+ Communicate findings with clarity — both visually and verbally
 ---
 
 ## Explore My Work
